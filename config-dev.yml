@@ -6,3 +6,7 @@ spring:
     url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
     username: root
     password: 123456
+lagou:
+  message: 444
+mysql:
+  url: 444
